@@ -23,14 +23,5 @@
 }
 
 #movies-scrollbar::-webkit-scrollbar {
-   /* Customize the scrollbar width */
    visibility: hidden;
-}
-
-#movies-scrollbar::-webkit-scrollbar-track {
-   /* Customize the scrollbar track */
-}
-
-#movies-scrollbar::-webkit-scrollbar-thumb {
-   /* Customize the scrollbar thumb */
 }
